@@ -1,3 +1,3 @@
-# Hey! You are seeing this since you are a part of the organization **thinkingbits**  
+# Hey! Welcome to **thinkingbits**  
 
-## View our repositories [here](https://github.com/orgs/thinkingbits?tab=repositories)
+## You can view our repositories [here](https://github.com/orgs/thinkingbits?tab=repositories)
